@@ -14,7 +14,7 @@ export default[
             'I recently completed a two-month internship as a software developer at Koders, where I honed my skills in backend development utilizing technologies such as Node.js, Express.js, and various DevOps tools for automation, such as Docker. It was a valuable experience that allowed me to expand my knowledge and gain practical experience in the field.',
     },
     {
-        year: '2028',
+        year: '2021',
         title:'Data Structure And Algorithms',
         duration:'2 years',
         details:
