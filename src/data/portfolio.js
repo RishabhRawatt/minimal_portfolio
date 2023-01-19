@@ -1,12 +1,12 @@
 export default[
     {
-        title: 'Faq Chatbot',
+        title: 'FAQ Chatbot',
         imgUrl: './assets/chat.jpg',
         stack: ['Dialogflow','Nodejs','Reactjs'],
         link:'https://github.com/RishabhRawatt/FAQchatBot',
     },
     {
-        title: 'Encrypt and decrypt image app',
+        title: 'Encrypt & Decrypt Image App',
         imgUrl: './assets/encrypt.jpg',
         stack: ['AES','Android Studio','JAVA'],
         link:'https://github.com/RishabhRawatt/Encryt-Decrypt',
@@ -14,7 +14,7 @@ export default[
     {
         title: 'Developer Portfolio',
         imgUrl: './assets/portfolio.jpg',
-        stack: ['React','Tailwind','vite'],
+        stack: ['React','Tailwind','Vite'],
         link:'https://github.com/RishabhRawatt/minimal_portfolio',
     },
 
